@@ -1,0 +1,13 @@
+{
+    "version": 1,
+    "themes": {
+        "theme-name": {
+            "name": "Swallow",
+            "repo": "https://github.com/anachronox/swallow/tree/master",
+            "zip": "https://github.com/anachronox/swallow/archive/master.zip",
+            "summary": "Basic theme",
+            "version": "2.0.0",
+            "image": "https://raw.githubusercontent.com/anachronox/swallow/master/preview.jpg"
+        }
+    }
+}
